@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0098-validate-binary-search-tree) |
+| [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
