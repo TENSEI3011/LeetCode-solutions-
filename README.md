@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
+| [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 ## Geometry
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
+| [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 ## Graph Theory
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 <!---LeetCode Topics End-->
