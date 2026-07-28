@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0283-move-zeroes) |
 ## Counting
 |  |
