@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 ## Graph Theory
 |  |
