@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1046-last-stone-weight) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
