@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
