@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 ## Design
@@ -161,9 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
