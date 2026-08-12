@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
