@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
@@ -175,4 +177,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
