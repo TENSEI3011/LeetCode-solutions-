@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
