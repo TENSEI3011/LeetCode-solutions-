@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 ## Graph Theory
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0344-reverse-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Trie
 |  |
 | ------- |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
