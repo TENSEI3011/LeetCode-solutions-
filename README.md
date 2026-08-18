@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0322-coin-change) |
 ## Two Pointers
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
