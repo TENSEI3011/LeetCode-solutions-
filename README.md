@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0322-coin-change) |
 ## Two Pointers
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
