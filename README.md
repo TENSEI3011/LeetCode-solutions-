@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
