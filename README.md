@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
