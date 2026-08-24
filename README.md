@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0482-license-key-formatting](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0482-license-key-formatting) |
 ## Trie
 |  |
 | ------- |
