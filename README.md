@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 | [0973-k-closest-points-to-origin](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 | [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
 ## Graph Theory
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
