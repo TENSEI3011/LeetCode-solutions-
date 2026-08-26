@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0409-longest-palindrome](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 | [1399-count-largest-group](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/1399-count-largest-group) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0409-longest-palindrome](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
