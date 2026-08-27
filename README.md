@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0409-longest-palindrome) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0409-longest-palindrome) |
