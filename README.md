@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Trie
 |  |
 | ------- |
