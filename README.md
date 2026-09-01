@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0796-rotate-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/TENSEI3011/LeetCode-solutions-/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
